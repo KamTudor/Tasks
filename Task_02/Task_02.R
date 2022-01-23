@@ -52,6 +52,7 @@ head(beren3)
 write.csv(beren3, 'beren_new.csv', quote = F, row.names = FALSE)
 
 #Task 02b
+setwd('C:\\Users\\Kambr\\Desktop\\Evolution\\Tasks\\Task_02')
 #Question 1: Hypothesis I requires data that isn't present, Hypothesis II is extremely vague
 
 #Task 02b Part IV
